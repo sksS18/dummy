@@ -1,5 +1,4 @@
 import React from 'react';
-import Icon7 from 'components/Landing-page/icons/Icon7';
 
 export const Contact = () => {
   return (

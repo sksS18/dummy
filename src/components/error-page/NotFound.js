@@ -33,10 +33,6 @@ export const NotFound = () => {
                Back Home
             </Link>
          </div>
-         {/* <div className="by">
-  Illustration "Cezan - 404 Page Not Found"
-by <Link className="byLink" href="https://dribbble.com/shots/3965778-Cezan-404-Page-Not-Found" target="_blank">Masoud Ardestani</Link>
-</div> */}
       </>
    );
 };
