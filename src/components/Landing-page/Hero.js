@@ -1,5 +1,4 @@
 import React from "react";
-// import Icon1 from "../icons/Icon1"
 import Icon1 from 'components/Landing-page/icons/Icon1';
 
 export const Hero = () => {

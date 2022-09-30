@@ -1,5 +1,4 @@
 import React from 'react';
-// import Icon3 from '../icons/Icon3';
 import Icon3 from 'components/Landing-page/icons/Icon3';
 
 export const Security = () => {

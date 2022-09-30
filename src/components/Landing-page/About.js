@@ -1,5 +1,4 @@
 import React from 'react';
-// import Icon2 from '../icons/Icon2';
 import Icon2 from 'components/Landing-page/icons/Icon2';
 
 export const About = () => {
