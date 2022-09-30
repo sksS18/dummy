@@ -3,13 +3,37 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@material-ui/core": "^4.12.4",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.10.1",
+    "@mui/styled-engine-sc": "^5.10.1",
+    "@mui/x-data-grid-generator": "^5.15.3",
+    "@mui/x-data-grid-pro": "^5.15.3",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "babel-loader": "^8.0.6",
+    "node-sass": "^7.0.1",
+    "prism-react-renderer": "^0.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-qr-code": "^2.0.7",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "react-transition-group": "^4.1.1",
+    "styled-components": "^5.3.5",
+    "styletron-engine-atomic": "^1.4.0",
+    "styletron-react": "^5.2.0",
+    "swiper": "^8.3.2",
+    "web-vitals": "^2.1.4",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -17,6 +41,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "tags": [
+    "swiper"
+  ],
   "eslintConfig": {
     "extends": [
       "react-app",
